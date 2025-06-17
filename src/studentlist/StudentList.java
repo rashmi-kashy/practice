@@ -10,8 +10,8 @@ package studentlist;
  */
 public class StudentList {
     
-    private String name
-
+    private String name;
+    private int age;
     /**
      * @param args the command line arguments
      */
